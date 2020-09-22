@@ -18,7 +18,6 @@ Este projeto foi realizado para treinamento e ensino para a comunidade de desenv
   # Execulte no dispositivo movel
   $ npx react-native run-android
   
-  Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
-
 ```
+### Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
 
