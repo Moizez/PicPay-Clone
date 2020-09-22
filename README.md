@@ -19,5 +19,5 @@ Este projeto foi realizado para treinamento e ensino para a comunidade de desenv
   $ npx react-native run-android
   
 ```
-### Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
+Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
 
