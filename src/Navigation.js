@@ -8,6 +8,8 @@ import PayButton from './components/PayButton'
 import HomeScreen from './screens/Home'
 import WalletScreen from './screens/Wallet'
 import PayScreen from './screens/Pay'
+import Notification from './screens/Notification'
+import Setting from './screens/Setting'
 
 const Tab = createBottomTabNavigator()
 
@@ -33,7 +35,7 @@ const icons = {
 const Navigation = () => {
     return (
         <Tab.Navigator
-            initialRouteName='Wallet'
+            initialRouteName='Setting'
             screenOptions={({ route, navigation }) => ({
                 tabBarIcon: ({ color, size, focused }) => {
                     if (route.name === 'Pay') {
@@ -82,7 +84,7 @@ const Navigation = () => {
 
             <Tab.Screen
                 name='Notifications'
-                component={PayScreen}
+                component={Notification}
                 options={{
                     title: 'Notificações'
                 }}
@@ -90,7 +92,7 @@ const Navigation = () => {
 
             <Tab.Screen
                 name='Settings'
-                component={PayScreen}
+                component={Setting}
                 options={{
                     title: 'Ajustes'
                 }}

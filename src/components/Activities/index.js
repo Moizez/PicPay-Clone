@@ -36,7 +36,7 @@ const Activities = () => {
                 <CardHeader>
                     <Avatar source={avatar} />
                     <Description>
-                        <Bold>Você</Bold> pagou a <Bold>@moizezhenrique</Bold>
+                        <Bold>Você</Bold> pagou a <Bold>@jannyfreitas</Bold>
                     </Description>
                 </CardHeader>
 
