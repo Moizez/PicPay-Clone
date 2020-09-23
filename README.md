@@ -1,5 +1,6 @@
 # PicPay | Clone
 Clone da interface do aplicativo de pagamentos PicPay feito em React Native CLI.
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
 <h1 align="center">
  
