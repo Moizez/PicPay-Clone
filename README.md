@@ -28,12 +28,12 @@ Este projeto foi realizado para minha prática pessoal e como forma de contribui
 Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
 
 ## Etapas
-- [x] 1°- Criação do bottom navigation da
-- [x] 2°- Criação da tela inicial
-- [x] 3°- Criação da tela da carteira
-- [x] 4°- Criação da tela de pagar
-- [x] 5°- Criação da tela de notificações
-- [x] 6°- Criação da tela de ajuste
+- [x] Criação do bottom navigation da
+- [x] Criação da tela inicial
+- [x] Criação da tela da carteira
+- [x] Criação da tela de pagamentos
+- [x] Criação da tela de notificações
+- [x] Criação da tela de ajustes
 
 ## Contato
 Moisés Henrique
