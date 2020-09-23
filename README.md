@@ -2,7 +2,9 @@
 Clone da interface do aplicativo de pagamentos PicPay feito em React Native CLI.
 
 <h1 align="center">
+ 
  ![PicPay-Clone](/picpay.gif)
+ 
 </h1>
 
 ## Apresentação
