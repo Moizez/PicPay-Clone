@@ -1,6 +1,6 @@
 <h1 align="center">
  
-![picpaylogo](https://user-images.githubusercontent.com/29413231/94051330-c71da600-fdad-11ea-81cb-ae849f66e6d7.png)
+![picpay-logo](https://user-images.githubusercontent.com/29413231/94051706-4b702900-fdae-11ea-8060-aed32542b679.png)
  
  </h1>
 
