@@ -35,6 +35,21 @@ Obs: Em caso de dúvidas consulte a documentação oficial do [react native](htt
 - [x] Criação da tela de notificações
 - [x] Criação da tela de ajustes
 
+## Tecnologias
+|Tecnologias | Versão |
+|------------|--------|
+|react        |**16.13.1** |
+|react-native |**0.63.2** |
+|react-native-gesture-handler |**^1.8.0** |
+|react-native-linear-gradient     |**^2.5.6** |
+|react-native-reanimated     |**^1.13.0** |
+|moment     |**^2.27.0** |
+|react-native-emoji     |**^1.8.0** |
+|react-native-safe-area-context     |**^3.1.8** |
+|react-native-screens     |**^2.11.0** |
+|react-native-vector-icons     |**^7.1.0** |
+|styled-components     |**^5.1.1** |
+
 ## Contato
 Moisés Henrique | E-mail: moizezhenrique@gmail.com | Twitter: [@moizezhenrique](https://twitter.com/moizezhenrique) | Instagram: [@moizezhenrique](https://www.instagram.com/moizezhenrique)
 
