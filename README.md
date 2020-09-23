@@ -8,7 +8,7 @@ Clone da interface do aplicativo de pagamentos PicPay feito em React Native CLI.
 </h1>
 
 ## Apresentação
-Este projeto foi realizado para treinamento e ensino para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento pessoal e profissional. Para a criação desse clone eu utilizei como base a série de videos do Mateus Silva no qual ele ensina a reacriar algumas páginas da interface do aplicativo PicPay com React-Native e Expo-CLI.
+Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **PicPay** eu utilizei como base a série de videos do Mateus Silva no qual ele ensina a reacriar algumas páginas da interface do aplicativo PicPay com React-Native e Expo-CLI.
 
 ## Instalação
 ```bash
