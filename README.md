@@ -28,5 +28,8 @@ Este projeto foi realizado para treinamento e ensino para a comunidade de desenv
 Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
 
 ## Contato
-Moisés Henrique - Twitter: [@moizezhenrique](https://twitter.com/moizezhenrique) - E-mail: moizezhenrique@gmail.com
+Moisés Henrique
+– E-mal: moizezhenrique@gmail.com
+– Twitter: [@moizezhenrique](https://twitter.com/moizezhenrique)
+– Instagram: [@moizezhenrique](https://www.instagram.com/moizezhenrique)
 
