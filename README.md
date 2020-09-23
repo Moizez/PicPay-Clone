@@ -1,4 +1,8 @@
+<h1 align="center">
+ 
 ![picpaylogo](https://user-images.githubusercontent.com/29413231/94051330-c71da600-fdad-11ea-81cb-ae849f66e6d7.png)
+ 
+ </h1>
 
 # PicPay | Clone
 > Clone da interface do aplicativo de pagamentos PicPay feito em React Native CLI.
