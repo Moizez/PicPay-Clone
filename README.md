@@ -24,7 +24,7 @@
 </h1>
 
 ## Apresentação
-Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **PicPay** eu utilizei como base a série de videos do Mateus Silva no qual ele ensina a reacriar algumas páginas da interface do aplicativo PicPay com React-Native e Expo-CLI.
+Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **PicPay** eu utilizei como base a série de videos do Mateus Silva no qual ele ensina a reacriar algumas páginas da interface do aplicativo com React-Native e Expo-CLI.
 
 ## Instalação
 ```bash
@@ -37,14 +37,14 @@ Este projeto foi realizado para minha prática pessoal e como forma de contribui
    # Dê um link completo pra que os icons fiquem visíveis no projeto.
    $ react-native link
 
-  # Execulte no dispositivo movel
+  # Execute no dispositivo movel
   $ npx react-native run-android
   
 ```
 Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
 
 ## Etapas
-- [x] Criação do bottom navigation da
+- [x] Criação do bottom navigation
 - [x] Criação da tela inicial
 - [x] Criação da tela da carteira
 - [x] Criação da tela de pagamentos
